@@ -1,1 +1,1 @@
-qw rfqfq
+print("welcome")

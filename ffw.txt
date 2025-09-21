@@ -1,4 +1,4 @@
 print("welcome")
 a=int(input())
 b=int(input())
-print("sum is"+str(a+b))
+print("diff is"+str(a-b))
